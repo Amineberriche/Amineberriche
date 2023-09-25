@@ -1,6 +1,6 @@
 ### Hi there 👋, I’m @Amineberriche
 #### I'm a full-stack developer acquired solid experience.
-![I'm a full-stack developer acquired solid experience.](https://github.com/Amineberriche/Amineberriche/blob/main/Berriche_git.gif)
+![I'm a full-stack developer acquired solid experience.](https://github.com/Amineberriche/Amineberriche/blob/main/Berriche_amine.gif)
 
 I have a strong expertise in Java development and JavaScript. Passionate about web and mobile development, I am looking for innovative and stimulating projects to enrich my career. Able to adapt quickly to environments ever-changing work.
 
