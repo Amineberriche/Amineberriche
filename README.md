@@ -24,10 +24,6 @@ Skills:
 
 <img align="center" alt="Material UI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
 
-<img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-
-<img align="center" alt="Framer Motion" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg">
-
 <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
@@ -36,7 +32,6 @@ Skills:
 
 <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-<img align="center" alt="Java EE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javaee/javaee-original.svg">
 
 <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 
